@@ -2,4 +2,4 @@
 an itch
 
 
-mvanholsteijn/paas-monitor:3.1.1
+mvanholsteijn/paas-monitor:3.1.2
